@@ -81,7 +81,11 @@ The goal of this script is to automatically perform administrative setup tasks w
 * Creating new user groups.
 * Inviting new users to the organization.
 * Assigning those newly invited users to the newly created groups.
+```
+Initially, the setup.py script was developed to automate the entire prerequisite setup, including the creation of all required users and groups. However, the user invitation feature was blocked by advanced security measures (reCAPTCHA) that could not be automated.
 
+To meet the core requirements of the assessment, I added the necessary users and groups to the Atlassian organization manually. The setup.py script included in this repository was then run to demonstrate the automation capability for the bonus task. In its final state, the script successfully proves the concept by creating new groups, but the user invitation step remains non-functional due to the security challenge.
+```
 ## Approach
 
 The script leverages the **Playwright** library in Python to achieve its goals through a series of automated steps:
