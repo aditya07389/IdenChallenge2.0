@@ -1,0 +1,8 @@
+venv/
+
+# Environment variables file containing secrets
+.env
+
+# Python cache files
+__pycache__/
+*.pyc

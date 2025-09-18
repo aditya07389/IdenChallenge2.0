@@ -1,0 +1,235 @@
+[
+    {
+        "id": "67246439-a1ff-4da8-8271-e0da30f6a542",
+        "name": "group1",
+        "description": "this is group1",
+        "members": [
+            "user1",
+            "user2"
+        ]
+    },
+    {
+        "id": "2006eb15-4c60-4439-9b33-9669534f38ba",
+        "name": "group10",
+        "description": "This is group10",
+        "members": [
+            "User 20",
+            "User 21"
+        ]
+    },
+    {
+        "id": "33cccd5e-d187-45e8-a795-a021df9810ec",
+        "name": "group11",
+        "description": "This is group11",
+        "members": [
+            "User 22",
+            "User 23"
+        ]
+    },
+    {
+        "id": "d798a4b1-667b-4c89-b5f2-83ecb48af844",
+        "name": "group12",
+        "description": "This is group12",
+        "members": [
+            "User 24",
+            "User 25"
+        ]
+    },
+    {
+        "id": "67c3726f-2e0a-4588-afd8-d278b68d5b24",
+        "name": "group13",
+        "description": "This is group13",
+        "members": [
+            "User 26",
+            "User 27"
+        ]
+    },
+    {
+        "id": "0a234be3-311c-4e76-acb1-a0ea551c4f9c",
+        "name": "group14",
+        "description": "This is group14",
+        "members": [
+            "User 28",
+            "User 29"
+        ]
+    },
+    {
+        "id": "3518fbbd-84b7-4795-94fb-fcb38ee3eea3",
+        "name": "group15",
+        "description": "This is group15",
+        "members": [
+            "User 30",
+            "User 32"
+        ]
+    },
+    {
+        "id": "fe7c445c-f281-4751-b4ee-5b9cf9273069",
+        "name": "group16",
+        "description": "This is group16",
+        "members": [
+            "User 33",
+            "User 34"
+        ]
+    },
+    {
+        "id": "cf911131-43c1-4100-b022-0d2361d26598",
+        "name": "group17",
+        "description": "This is group17",
+        "members": [
+            "User 35",
+            "User 36"
+        ]
+    },
+    {
+        "id": "26cb0f63-7163-44f6-82a7-d54a65a5cc0b",
+        "name": "group18",
+        "description": "This is group18",
+        "members": [
+            "User 37",
+            "User 38"
+        ]
+    },
+    {
+        "id": "463a8860-5b5b-4e3a-971a-7ceff4497f03",
+        "name": "group19",
+        "description": "This is group19",
+        "members": [
+            "User 39",
+            "user40"
+        ]
+    },
+    {
+        "id": "5854f7d6-1040-4384-ad06-589a4256a82b",
+        "name": "group2",
+        "description": "this is group2",
+        "members": [
+            "user3",
+            "User 4"
+        ]
+    },
+    {
+        "id": "00a43b88-d91e-4ade-86d3-581bf1aea175",
+        "name": "group20",
+        "description": "This is group20",
+        "members": [
+            "user40",
+            "User 41"
+        ]
+    },
+    {
+        "id": "c36dd6e0-e805-44df-a919-c554becb369f",
+        "name": "group21",
+        "description": "This is group21",
+        "members": [
+            "User 42",
+            "User 43"
+        ]
+    },
+    {
+        "id": "dfc25772-1efe-484d-ae53-b5b2b987b1c7",
+        "name": "group22",
+        "description": "This is group22",
+        "members": [
+            "User 44",
+            "User 45"
+        ]
+    },
+    {
+        "id": "b2b29e7a-1655-458c-9034-9dd9472fb1b5",
+        "name": "group23",
+        "description": "This is group23",
+        "members": [
+            "User 46",
+            "User 47"
+        ]
+    },
+    {
+        "id": "22e0e066-af54-486d-9662-62884a0d35cf",
+        "name": "group24",
+        "description": "This is group24",
+        "members": [
+            "User 48",
+            "User 49"
+        ]
+    },
+    {
+        "id": "e92189c1-19f4-49db-9b24-e7ac430df11e",
+        "name": "group25",
+        "description": "This is group25",
+        "members": [
+            "User 50",
+            "user51"
+        ]
+    },
+    {
+        "id": "4b11e777-fd02-4770-8438-aafb14470015",
+        "name": "group3",
+        "description": "this is group3",
+        "members": [
+            "User 5",
+            "User 7"
+        ]
+    },
+    {
+        "id": "3169b8d5-b6bb-4876-a7f7-b40229026a18",
+        "name": "group4",
+        "description": "this is group4",
+        "members": [
+            "User 8",
+            "User 9"
+        ]
+    },
+    {
+        "id": "ca0f03e7-e0f9-45fb-9346-d3e001472637",
+        "name": "group5",
+        "description": "this is group5",
+        "members": [
+            "User 10",
+            "User 11"
+        ]
+    },
+    {
+        "id": "a9aa0321-1064-4978-acab-9fab82ff95f0",
+        "name": "group6",
+        "description": "this is group6",
+        "members": [
+            "User 12",
+            "User 13"
+        ]
+    },
+    {
+        "id": "380e63c2-631b-4c8d-8a0f-5bbfa48d50d6",
+        "name": "group7",
+        "description": "this is group7",
+        "members": [
+            "User 14",
+            "User 15"
+        ]
+    },
+    {
+        "id": "2d1cfa70-8041-4e3a-b1bb-c81b4ea541ec",
+        "name": "group8",
+        "description": "This is group8",
+        "members": [
+            "User 16",
+            "User 17"
+        ]
+    },
+    {
+        "id": "1719145a-98cf-4fa1-92e1-1cb6123bf9cf",
+        "name": "group9",
+        "description": "This is group9",
+        "members": [
+            "User 18",
+            "User 19"
+        ]
+    },
+    {
+        "id": "ff6e8153-f6eb-41b9-bebb-308af2f01f23",
+        "name": "org-admins",
+        "description": "Grants access to administer org-level settings, users, and groups, and to view billing",
+        "members": [
+            "Aditya Shastry"
+        ]
+    }
+]
